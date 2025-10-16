@@ -1,2 +1,4 @@
-theme : minima
-title : skills page
+   ```yml
+   theme: minima
+   title: skills page
+   ```
